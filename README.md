@@ -10,3 +10,11 @@ pode ter menos controle sobre segurança e personalizaçao.
 Núvem Privada - A infraestrutura é dedicada a uma única orgqanizaçao, podendo ser hospedada internamente ou por um provedor tercerizado. Oferece mais controle, segurança e personalizaçao.
 
 A azure oferece uma ferramenta online que permite estimar custos dos serviços da MIcrosoft com base na configuraçao e no uso planejado. SImulação de custos baseado em regiao, serviçoes entre outros.
+
+Beneficios da Nuvem
+
+Alta Disponibilidade
+Confibialidade e  previsibilidade
+Segurança e Governança
+Facilidade no Gerencialmente
+Alta escabilidade
